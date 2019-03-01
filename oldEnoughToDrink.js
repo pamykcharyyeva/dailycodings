@@ -5,3 +5,4 @@ function isOldEnoughToDrive(age) {
     return false;
   }
 }
+//The legal driving age in the United States is 16.
